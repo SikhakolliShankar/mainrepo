@@ -1,5 +1,5 @@
 # Main repo
 Hello
-My name is testuser
-I am from Citynsme
+My name is developer1
+I am from bangalore
 I like movies
